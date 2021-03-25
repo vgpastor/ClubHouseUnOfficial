@@ -15,7 +15,7 @@
 			android:layout_height="wrap_content"
 			android:orientation="horizontal">
 
-			<me.grishka.houseclub.views.SquircleImageView
+			<vgpastor.clubhouse.views.SquircleImageView
 				android:id="@+id/photo"
 				android:layout_width="72dp"
 				android:layout_height="72dp"
@@ -148,7 +148,7 @@
 			android:orientation="horizontal">
 
 
-			<me.grishka.houseclub.views.SquircleImageView
+			<vgpastor.clubhouse.views.SquircleImageView
 				android:id="@+id/pic1"
 				android:layout_width="48dp"
 				android:layout_height="48dp"
@@ -156,7 +156,7 @@
 				android:visibility="gone"
 				tools:src="#0f0"/>
 
-			<me.grishka.houseclub.views.SquircleImageView
+			<vgpastor.clubhouse.views.SquircleImageView
 				android:id="@+id/pic2"
 				android:layout_width="48dp"
 				android:layout_height="48dp"
@@ -164,7 +164,7 @@
 				android:visibility="gone"
 				tools:src="#0f0"/>
 
-			<me.grishka.houseclub.views.SquircleImageView
+			<vgpastor.clubhouse.views.SquircleImageView
 				android:id="@+id/pic3"
 				android:layout_width="48dp"
 				android:layout_height="48dp"
@@ -249,7 +249,7 @@
 			android:layout_height="wrap_content"
 			android:orientation="horizontal">
 
-			<me.grishka.houseclub.views.SquircleImageView
+			<vgpastor.clubhouse.views.SquircleImageView
 				android:id="@+id/inviter_photo"
 				android:layout_width="48dp"
 				android:layout_height="48dp"

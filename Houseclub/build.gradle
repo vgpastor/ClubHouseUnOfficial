@@ -4,11 +4,11 @@ android {
 	compileSdkVersion 30
 	buildToolsVersion "30.0.3"
 	defaultConfig {
-		applicationId "me.grishka.houseclub"
+		applicationId "vgpastor.clubhouse"
 		minSdkVersion 24
 		targetSdkVersion 30
 		versionCode 9
-		versionName "1.0.8"
+		versionName "2.0.1"
 
 		Properties properties = new Properties()
 		if (project.rootProject.file('local.properties').canRead()) {

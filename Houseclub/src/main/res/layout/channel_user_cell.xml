@@ -15,7 +15,7 @@
 		android:alpha="0"
 		android:background="@drawable/speaker_border"/>
 
-	<me.grishka.houseclub.views.SquircleImageView
+	<vgpastor.clubhouse.views.SquircleImageView
 		android:id="@+id/photo"
 		android:layout_width="72dp"
 		android:layout_height="72dp"

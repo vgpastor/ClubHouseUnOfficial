@@ -9,7 +9,7 @@
 	android:paddingRight="16dp"
 	android:orientation="horizontal">
 
-	<me.grishka.houseclub.views.SquircleImageView
+	<vgpastor.clubhouse.views.SquircleImageView
 		android:id="@+id/photo"
 		android:layout_width="48dp"
 		android:layout_height="48dp"

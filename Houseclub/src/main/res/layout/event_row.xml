@@ -26,14 +26,14 @@
 		android:fontFamily="sans-serif-medium"
 		tools:text="Event topic"/>
 
-	<me.grishka.houseclub.views.SquircleImageView
+	<vgpastor.clubhouse.views.SquircleImageView
 		android:id="@+id/pic1"
 		android:layout_width="40dp"
 		android:layout_height="40dp"
 		android:layout_below="@id/topic"
 		tools:src="#0f0"/>
 
-	<me.grishka.houseclub.views.SquircleImageView
+	<vgpastor.clubhouse.views.SquircleImageView
 		android:id="@+id/pic2"
 		android:layout_width="40dp"
 		android:layout_height="40dp"
